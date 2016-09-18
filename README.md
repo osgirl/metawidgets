@@ -1,4 +1,10 @@
 # Personal Contact Form
 
 This project is for collection information about a person using the metawidgets library.
-Its not pretty but it works.
+
+To get this running you will need a webserver or node/npm install.
+
+Easy way
+```bash
+npm start
+```
